@@ -82,7 +82,7 @@ div.campo > span {
 }
 
 div.campo > input {
-    background-color: white;
+    background-color: var(--azulclaro);
     font-size: 1em;
     padding: 5px;
     width: calc(100% - 45px);
